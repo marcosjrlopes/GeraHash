@@ -1,0 +1,9 @@
+C:\DADOS\DESENVOLVIMENTO\ProjetosDEv\github\HashsCSharp\HashsCSharp\bin\Debug\HashsCSharp.exe.config
+C:\DADOS\DESENVOLVIMENTO\ProjetosDEv\github\HashsCSharp\HashsCSharp\bin\Debug\HashsCSharp.exe
+C:\DADOS\DESENVOLVIMENTO\ProjetosDEv\github\HashsCSharp\HashsCSharp\bin\Debug\HashsCSharp.pdb
+C:\DADOS\DESENVOLVIMENTO\ProjetosDEv\github\HashsCSharp\HashsCSharp\obj\Debug\HashsCSharp.csprojResolveAssemblyReference.cache
+C:\DADOS\DESENVOLVIMENTO\ProjetosDEv\github\HashsCSharp\HashsCSharp\obj\Debug\HashsCSharp.Form1.resources
+C:\DADOS\DESENVOLVIMENTO\ProjetosDEv\github\HashsCSharp\HashsCSharp\obj\Debug\HashsCSharp.Properties.Resources.resources
+C:\DADOS\DESENVOLVIMENTO\ProjetosDEv\github\HashsCSharp\HashsCSharp\obj\Debug\HashsCSharp.csproj.GenerateResource.Cache
+C:\DADOS\DESENVOLVIMENTO\ProjetosDEv\github\HashsCSharp\HashsCSharp\obj\Debug\HashsCSharp.exe
+C:\DADOS\DESENVOLVIMENTO\ProjetosDEv\github\HashsCSharp\HashsCSharp\obj\Debug\HashsCSharp.pdb
